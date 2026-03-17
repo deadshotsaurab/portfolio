@@ -26,4 +26,4 @@ MCA Student – Pondicherry University
 
 GitHub: https://github.com/deadshotsaurab
 
-Live Portfolio: saurabhtiwari.vercel.app
+Live Portfolio: https://saurabhtiwari.vercel.app
